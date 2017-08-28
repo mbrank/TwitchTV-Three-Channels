@@ -1,0 +1,21 @@
+#eslId, #firefoxId, #fccId{
+background-color: green;
+    border: 1px solid;;
+    border-color: blue;
+}
+#nameEslId, #nameFirefoxId, #nameFccId{
+    background-color: yellow;
+    border: 1px solid;
+    border-color: red;
+}
+
+#nameEslId:hover, #nameFirefoxId:hover, #nameFccId:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#statusEslId,#statusFirefoxId, #statusFccId{
+    background-color: yellow;
+     border: 1px solid;
+    border-color: red;
+}
